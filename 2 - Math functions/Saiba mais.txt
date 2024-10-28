@@ -1,0 +1,2 @@
+Para acessar toda biblioteca <math.h>:
+https://www.w3schools.com/c/c_ref_math.php
